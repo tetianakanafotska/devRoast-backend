@@ -6,11 +6,24 @@
     },
     {
       "id": 2,
-      "text": "Tell something"
+      "text": "Who is the most active?"
     },
     {
       "id": 3,
-      "text": "Tell a joke"
+      "text": "Who is  the biggest nerd?"
+    },
+    {
+      "id": 4,
+      "text": "Who is the blondest?"
+    },
+    {
+      "id": 5,
+      "text": "Who is the most exotic?"
+    },
+    {
+      "id": 6,
+      "text": "Who is the quickest?"
     }
-  ]
+  ],
+  "users": []
 }
