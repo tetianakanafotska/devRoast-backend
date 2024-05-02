@@ -1,28 +1,53 @@
 {
+  "survey": [1, 2, 3],
   "questions": [
     {
       "id": 1,
-      "text": "Who is the tallest in the room?"
+      "text": "How long do you think Omar would survive in a zombie apocalypse?",
+      "surveyId": 1
     },
     {
       "id": 2,
-      "text": "Who is the most active?"
+      "text": "What is the worst possible name you might give your child?",
+      "surveyId": 1
     },
     {
       "id": 3,
-      "text": "Who is  the biggest nerd?"
+      "text": "If Omar were a function, what would his return statement be?",
+      "options": ["DON'T REPEAT YOURSELF", "just false", "error"],
+      "surveyId": 1
     },
     {
-      "id": 4,
-      "text": "Who is the blondest?"
+      "id": 1,
+      "text": "What do you think would be the worst “buy one, get one free” sale of all time?",
+      "surveyId": 2
     },
     {
-      "id": 5,
-      "text": "Who is the most exotic?"
+      "id": 2,
+      "text": "What's something you're glad your mum doesn't know about you?",
+      "surveyId": 2
     },
     {
-      "id": 6,
-      "text": "Who is the quickest?"
+      "id": 3,
+      "text": "Who is the biggest nerd?",
+      "options": ["Omar", "Gisem", "idk"],
+      "surveyId": 2
+    },
+    {
+      "id": 1,
+      "text": "Who is the tallest in the room?",
+      "surveyId": 3
+    },
+    {
+      "id": 2,
+      "text": "What is your deepest, darkest secret?",
+      "surveyId": 3
+    },
+    {
+      "id": 3,
+      "text": "Which member of the cohort would you trust to write code for a rocket launch?",
+      "options": ["Nemer", "Shakti", "Gisem"],
+      "surveyId": 3
     }
   ],
   "answers": []
