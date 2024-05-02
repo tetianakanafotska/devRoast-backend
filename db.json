@@ -1,5 +1,5 @@
 {
-  "survey": [1, 2, 3],
+  "surveys": [1, 2, 3],
   "questions": [
     {
       "id": 1,
