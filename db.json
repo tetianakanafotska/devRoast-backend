@@ -1,9 +1,5 @@
 {
-  "surveys": [
-    { "id": 1, "name": "sarcastic" },
-    { "id": 2, "name": "omar" },
-    { "id": 3, "name": "cute" }
-  ],
+  "surveys": [{ "id": "sarcastic" }, { "id": "omar" }, { "id": "cute" }],
   "questions": [
     {
       "id": 1,
