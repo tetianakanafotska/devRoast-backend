@@ -1,21 +1,15 @@
 {
-  "surveys": [
-    { "id": 1, "type": "sarcastic" },
-    { "id": 2, "type": "omar" },
-    { "id": 3, "type": "cute" }
-  ],
+  "surveys": [{ "id": 1 }, { "id": 2 }, { "id": 3 }],
   "questions": [
     {
       "id": 1,
       "text": "How long do you think Omar would survive in a zombie apocalypse?",
-      "type": "sarcastic",
       "order": 1,
       "surveyId": 1
     },
     {
       "id": 2,
       "text": "What is the worst possible name you might give your child?",
-      "type": "sarcastic",
       "order": 2,
       "surveyId": 1
     },
@@ -23,21 +17,18 @@
       "id": 3,
       "text": "If Omar were a function, what would his return statement be?",
       "options": ["DON'T REPEAT YOURSELF", "just false", "error"],
-      "type": "sarcastic",
       "order": 3,
       "surveyId": 1
     },
     {
       "id": 4,
       "text": "What do you think would be the worst “buy one, get one free” sale of all time?",
-      "type": "omar",
       "order": 1,
       "surveyId": 2
     },
     {
       "id": 5,
       "text": "What's something you're glad your mum doesn't know about you?",
-      "type": "omar",
       "order": 2,
       "surveyId": 2
     },
@@ -45,21 +36,18 @@
       "id": 6,
       "text": "Who is the biggest nerd?",
       "options": ["Omar", "Gisem", "idk"],
-      "type": "omar",
       "order": 3,
       "surveyId": 2
     },
     {
       "id": 7,
       "text": "Who is the tallest in the room?",
-      "type": "cute",
       "order": 1,
       "surveyId": 3
     },
     {
       "id": 8,
       "text": "What is your deepest, darkest secret?",
-      "type": "cute",
       "order": 2,
       "surveyId": 3
     },
@@ -67,7 +55,6 @@
       "id": 9,
       "text": "Which member of the cohort would you trust to write code for a rocket launch?",
       "options": ["Nemer", "Shakti", "Gisem"],
-      "type": "cute",
       "order": 3,
       "surveyId": 3
     }
