@@ -3,58 +3,111 @@
   "questions": [
     {
       "id": 1,
-      "text": "How long do you think Omar would survive in a zombie apocalypse?",
+      "text": "Who is the biggest nerd?",
+      "options": ["Gisem", "Omar", "Robert"],
       "order": 1,
       "surveyId": 1
     },
     {
       "id": 2,
-      "text": "What is the worst possible name you might give your child?",
+      "text": "Who would use comic sans font?",
       "order": 2,
       "surveyId": 1
     },
     {
       "id": 3,
       "text": "If Omar were a function, what would his return statement be?",
-      "options": ["DON'T REPEAT YOURSELF", "just false", "error"],
+      "options": ["DON'T REPEAT YOURSELF", "false", "Stack Overflow ❤️"],
       "order": 3,
       "surveyId": 1
     },
     {
       "id": 4,
-      "text": "What do you think would be the worst “buy one, get one free” sale of all time?",
+      "text": "Who throws the best parties?",
+      "options": ["Mira", "Ulvi", "NOT Shakti"],
+      "order": 4,
+      "surveyId": 1
+    },
+    {
+      "id": 5,
+      "text": "What would you choose as a weapon if you had to survive the apocalypse?",
+      "options": [
+        "Ghada's lunch wrap",
+        "Ulvi's monitor",
+        "Susanne's Sewing kit"
+      ],
+      "order": 5,
+      "surveyId": 1
+    },
+    {
+      "id": 6,
+      "text": "What are Stefan, Laura and Pepe doing in that room?",
+      "order": 6,
+      "surveyId": 1
+    },
+    {
+      "id": 7,
+      "text": "Who would you pick as a CTO of the cohort?",
+      "options": ["Najeeb", "Nemer", "Cami"],
+      "order": 7,
+      "surveyId": 1
+    },
+    {
+      "id": 8,
+      "text": "Who would deliver the most captivating TED TALK?",
+      "options": ["Orlando", "Najeeb", "Ghada"],
+      "order": 8,
+      "surveyId": 1
+    },
+    {
+      "id": 9,
+      "text": "Who wears the curly hair better?",
+      "options": ["Omar", "Omar", "Cami"],
+      "order": 9,
+      "surveyId": 1
+    },
+    {
+      "id": 10,
+      "text": "Who do you think is a secret agent in the cohort?",
+      "options": ["Adrian", "Nemer", "Tetiana"],
+      "order": 10,
+      "surveyId": 1
+    },
+    {
+      "id": 11,
+      "text": "Question 1",
+      "options": ["Option1", "Option2", "Option3"],
       "order": 1,
       "surveyId": 2
     },
     {
-      "id": 5,
-      "text": "What's something you're glad your mum doesn't know about you?",
+      "id": 12,
+      "text": "Question 2",
       "order": 2,
       "surveyId": 2
     },
     {
-      "id": 6,
-      "text": "Who is the biggest nerd?",
-      "options": ["Omar", "Gisem", "idk"],
+      "id": 13,
+      "text": "Question 3",
       "order": 3,
       "surveyId": 2
     },
     {
-      "id": 7,
-      "text": "Who is the tallest in the room?",
+      "id": 14,
+      "text": "Question 1",
       "order": 1,
       "surveyId": 3
     },
     {
-      "id": 8,
-      "text": "What is your deepest, darkest secret?",
+      "id": 15,
+      "text": "Question 2",
       "order": 2,
       "surveyId": 3
     },
     {
-      "id": 9,
-      "text": "Which member of the cohort would you trust to write code for a rocket launch?",
-      "options": ["Nemer", "Shakti", "Gisem"],
+      "id": 16,
+      "text": "Question 3",
+      "options": ["Option1", "Option2", "Option3"],
       "order": 3,
       "surveyId": 3
     }
