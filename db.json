@@ -62,7 +62,7 @@
     {
       "id": 9,
       "text": "Who wears the curly hair better?",
-      "options": ["Omar", "Omar(2)", "Cami"],
+      "options": ["Omar", "Omar*2", "Cami"],
       "order": 9,
       "surveyId": 1
     },
@@ -85,7 +85,7 @@
       "options": [
         "Rammstein - Du riechst so gut",
         "Coldplay - Nobody said it was easy",
-        "Imagine Dragons - Not today"
+        "Bob Dylan - It's Alright, Ma (I'm Only Bleeding)"
       ],
       "order": 2,
       "surveyId": 2
@@ -107,11 +107,7 @@
     {
       "id": 15,
       "text": "What is the holiday on May 9th about?",
-      "options": [
-        "angels are coming",
-        "Ghada's hairwash day",
-        "Merkel's birthday"
-      ],
+      "options": ["He has risen", "Ghada's hairwash day", "Merkel's birthday"],
       "order": 5,
       "surveyId": 2
     },
@@ -132,7 +128,7 @@
       "options": [
         "Deutschland ist wunderschön",
         "Where's the party at?",
-        "Hallo?!(passive agressive)"
+        "Haaallooo?!"
       ],
       "order": 7,
       "surveyId": 2
