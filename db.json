@@ -62,7 +62,7 @@
     {
       "id": 9,
       "text": "Who wears the curly hair better?",
-      "options": ["Omar", "Omar", "Cami"],
+      "options": ["Omar", "Omar(2)", "Cami"],
       "order": 9,
       "surveyId": 1
     },
