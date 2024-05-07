@@ -75,41 +75,84 @@
     },
     {
       "id": 11,
-      "text": "Question 1",
-      "options": ["Option1", "Option2", "Option3"],
+      "text": "What's something you're doing in Berlin you´re glad your mum doesn't know?",
       "order": 1,
       "surveyId": 2
     },
     {
       "id": 12,
-      "text": "Question 2",
+      "text": "Which song would you pick for U8?",
+      "options": [
+        "Rammstein - Du riechst so gut",
+        "Coldplay - Nobody said it was easy",
+        "Imagine Dragons - Not today"
+      ],
       "order": 2,
       "surveyId": 2
     },
     {
       "id": 13,
-      "text": "Question 3",
+      "text": "What's the most spoken language in Berlin?",
+      "options": ["English", "Turkish", "Vietnamese"],
       "order": 3,
       "surveyId": 2
     },
     {
       "id": 14,
-      "text": "Question 1",
-      "order": 1,
-      "surveyId": 3
+      "text": "What would Najeeb, Robert and Nemer plan for the weekend?",
+      "options": ["go to Vabali", "do nerd stuff", "Netflix & chill"],
+      "order": 4,
+      "surveyId": 2
     },
     {
       "id": 15,
-      "text": "Question 2",
-      "order": 2,
-      "surveyId": 3
+      "text": "What is the holiday on May 9th about?",
+      "options": [
+        "angels are coming",
+        "Ghada's hairwash day",
+        "Merkel's birthday"
+      ],
+      "order": 5,
+      "surveyId": 2
     },
     {
       "id": 16,
-      "text": "Question 3",
-      "options": ["Option1", "Option2", "Option3"],
-      "order": 3,
-      "surveyId": 3
+      "text": "What is your level of German?",
+      "options": [
+        "Mit Karte bitte",
+        "Nahrungsmittelunverträglichkeit",
+        "Ach so"
+      ],
+      "order": 6,
+      "surveyId": 2
+    },
+    {
+      "id": 17,
+      "text": "What Berlin stage are you at?",
+      "options": [
+        "Deutschland ist wunderschön",
+        "Where's the party at?",
+        "Hallo?!(passive agressive)"
+      ],
+      "order": 7,
+      "surveyId": 2
+    },
+    {
+      "id": 18,
+      "text": "If Ulvi would move to Berlin, which district should he live in?",
+      "order": 8,
+      "surveyId": 2
+    },
+    {
+      "id": 19,
+      "text": "What WG would you move in?",
+      "options": [
+        "Anna & Taylor Swift",
+        "Ecem, Shakti & Björk",
+        "Noelia, Orlando & Daddy Yankee"
+      ],
+      "order": 9,
+      "surveyId": 2
     }
   ],
   "users": [],
