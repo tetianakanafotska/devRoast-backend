@@ -157,7 +157,7 @@
     {
       "id": 20,
       "text": "Where do you think Mira shops at?",
-      "options": ["Denns BioMarkt", "Bio Company", "BioMarkt"],
+      "options": ["Denns BioMarkt", "Bio Company", "Der Bioladen"],
       "order": 10,
       "surveyId": 2
     }
